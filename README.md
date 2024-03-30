@@ -76,5 +76,3 @@ By implementing these insights and suggestions, the insurance industry can make 
 
 # Conclusion
 This project demonstrates the process of predicting medical health insurance costs using various regression models. The models' performances are compared using evaluation metrics, and key insights are drawn from the analysis. The project highlights the importance of data preprocessing, model selection, and evaluation for accurate predictions in the field of medical insurance cost estimation. Further improvements and refinements could be explored to enhance the models' predictive capabilities.
-
-insurance/README.md at main · yogamariappan/insurance
