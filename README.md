@@ -1,29 +1,30 @@
 # Medical-Health-Insurance
-Medical Health Insurance Cost Prediction
+# Medical Health Insurance Cost Prediction
 Medical Health Insurance Cost Prediction with python using Different Regression Models.
 
-Overview
+# Overview
 This project focuses on predicting medical health insurance costs using various regression models. The goal is to create a model that can accurately estimate the insurance costs for individuals based on their attributes. The project employs exploratory data analysis, data preprocessing, and several regression techniques to achieve this.
 
-Table of Contents
+# Table of Contents
 Project Description Requirements Dataset Data Preprocessing Exploratory Data Analysis Regression Models Model Evaluation Key Insights Suggestions Conclusion
 
-Project Description
+# Project Description
 In this project, we aim to predict medical health insurance costs for individuals based on various factors such as age, sex, BMI, number of children, smoking habits, and region. The project involves the following steps:
 
-Data Loading and Overview: The project begins by loading the dataset containing information about individuals and their insurance costs.
+1. Data Loading and Overview: The project begins by loading the dataset containing information about individuals and their insurance costs.
 
-Exploratory Data Analysis: We analyze the dataset to gain insights into the data distribution, relationships between variables, and identify potential patterns.
+2. Exploratory Data Analysis: We analyze the dataset to gain insights into the data distribution, relationships between variables, and identify potential patterns.
 
-Data Preprocessing: Data preprocessing steps are performed, including handling missing values, encoding categorical variables, and scaling numerical features.
+3. Data Preprocessing: Data preprocessing steps are performed, including handling missing values, encoding categorical variables, and scaling numerical features.
 
-Regression Models: Several regression models are implemented, including Multiple Linear Regression, Lasso Regression, Ridge Regression, ElasticNet Regressor, Random Forest Regressor, and Polynomial Regression.
+4. Regression Models: Several regression models are implemented, including Multiple Linear Regression, Lasso Regression, Ridge Regression, ElasticNet Regressor, Random Forest Regressor, and Polynomial Regression.
 
-Model Evaluation: The models are evaluated using metrics such as Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error. The performance of each model is compared.
+5. Model Evaluation: The models are evaluated using metrics such as Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error. The performance of each model is compared.
 
-Conclusion: The project concludes with a summary of key insights obtained from the analysis and suggestions for further improvement.
+# Conclusion:
+The project concludes with a summary of key insights obtained from the analysis and suggestions for further improvement.
 
-Requirements
+# Requirements
 Python
 
 Integrated Development Environment (IDE): You can use IDEs like google colab
@@ -42,7 +43,7 @@ Regression Algorithms: Implementing a project on insurance cost prediction will 
 
 Model Evaluation Tools: Libraries like Scikit-learn contain useful functions for evaluating your regression models, including metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 
-Key Insights
+# Key Insights
 Feature Importance: After analyzing the dataset, we found that the most influential factors affecting medical insurance charges are whether the person is a smoker, their BMI (Body Mass Index), and their age.
 
 Smoking Impact: Smokers tend to have significantly higher medical insurance charges compared to non-smokers. This is a crucial insight that highlights the importance of lifestyle choices on healthcare costs.
@@ -55,7 +56,7 @@ Model Performance: We evaluated multiple regression models including Multiple Li
 
 Polynomial Model Advantage: The Polynomial Regression model showed the lowest Mean Absolute Error, Mean Square Error, and Root Mean Square Error among all models, indicating its capability to better capture the underlying patterns in the data.
 
-Suggestions
+# Suggestions
 Promote Healthy Lifestyles: Encourage smoking cessation programs and awareness campaigns to reduce the number of smokers. This could lead to substantial savings in healthcare costs.
 
 Health Awareness: Run campaigns to educate people about the impact of BMI on health and insurance costs. Promoting healthy eating and exercise can help individuals maintain a healthy weight and potentially lower their medical expenses.
@@ -76,7 +77,7 @@ Customer Education: Educate customers about how their lifestyle choices and age 
 
 By implementing these insights and suggestions, the insurance industry can make informed decisions to optimize insurance plans and promote healthier lifestyles among their customers.
 
-Conclusion
+# Conclusion
 This project demonstrates the process of predicting medical health insurance costs using various regression models. The models' performances are compared using evaluation metrics, and key insights are drawn from the analysis. The project highlights the importance of data preprocessing, model selection, and evaluation for accurate predictions in the field of medical insurance cost estimation. Further improvements and refinements could be explored to enhance the models' predictive capabilities.
 
 insurance/README.md at main · yogamariappan/insurance
