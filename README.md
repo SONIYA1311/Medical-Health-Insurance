@@ -21,9 +21,6 @@ In this project, we aim to predict medical health insurance costs for individual
 
 5. Model Evaluation: The models are evaluated using metrics such as Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error. The performance of each model is compared.
 
-# Conclusion:
-The project concludes with a summary of key insights obtained from the analysis and suggestions for further improvement.
-
 # Requirements
 Python
 
